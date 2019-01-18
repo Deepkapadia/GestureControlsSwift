@@ -14,6 +14,7 @@
 		22888EDD1EE2BC6F003C52A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22888EDB1EE2BC6F003C52A8 /* LaunchScreen.storyboard */; };
 		22888EE81EE2BC6F003C52A8 /* GestureControlsSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22888EE71EE2BC6F003C52A8 /* GestureControlsSwiftTests.swift */; };
 		22888EF31EE2BC70003C52A8 /* GestureControlsSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22888EF21EE2BC70003C52A8 /* GestureControlsSwiftUITests.swift */; };
+		22888F011EE2BD98003C52A8 /* abc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22888F001EE2BD98003C52A8 /* abc.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		22888EEE1EE2BC6F003C52A8 /* GestureControlsSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GestureControlsSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22888EF21EE2BC70003C52A8 /* GestureControlsSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureControlsSwiftUITests.swift; sourceTree = "<group>"; };
 		22888EF41EE2BC70003C52A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22888F001EE2BD98003C52A8 /* abc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = abc.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		22888ED11EE2BC6F003C52A8 /* GestureControlsSwift */ = {
 			isa = PBXGroup;
 			children = (
+				22888F001EE2BD98003C52A8 /* abc.jpg */,
 				22888ED21EE2BC6F003C52A8 /* AppDelegate.swift */,
 				22888ED41EE2BC6F003C52A8 /* ViewController.swift */,
 				22888ED61EE2BC6F003C52A8 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22888F011EE2BD98003C52A8 /* abc.jpg in Resources */,
 				22888EDD1EE2BC6F003C52A8 /* LaunchScreen.storyboard in Resources */,
 				22888EDA1EE2BC6F003C52A8 /* Assets.xcassets in Resources */,
 				22888ED81EE2BC6F003C52A8 /* Main.storyboard in Resources */,
